@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">medical care</string>
+    <string name="app_search_bt_label">Search for BT devices</string>
+
+    <!--ConsoleFragment-->
+    <string name="label_button_send">Send</string>
+    <string name="label_menu_action_search_bt">BT Scan</string>
+    <string name="label_hint_edittext_input">Enter data to send&#8230;</string>
+    <!--End ConsoleFragment-->
+
+    <!--DeviceListFragment-->
+    <string name="label_textview_paired_device">Paired devices&#8230;</string>
+    <string name="label_textview_found_devices">Devices recently found&#8230;</string>
+    <string name="label_button_scan_bt">Scan</string>
+    <string name="toast_bt_discovery_started">BT scanning started.</string>
+    <string name="toast_bt_not_available">"Bluetooth not available. App terminated."</string>
+    <string name="toast_bt_action_bt_not_active">BT is not active. App terminated.</string>
+    <string name="toast_bt_discovery_stopped">BT scan done.</string>
+    <!--End DeviceListFragment-->
+
+    <!--BluetoothService-->
+    <string name="toast_bt_could_not_create_socket">Could not create a socket</string>
+    <string name="toast_bt_could_not_connect">Could not connect to a BT device.</string>
+    <string name="toast_bt_connected">Connected!</string>
+    <string name="toast_bt_not_connected">Not connected :(</string>
+    <!--End BluetoothService-->
+</resources>
