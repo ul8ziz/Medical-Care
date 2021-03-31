@@ -13,7 +13,7 @@ Also make sure you have Arduino installed,to run Arduino code.
 2-Open the project using Android Studio and run the application.
 
 
-3-bulid the device like the diagrams in folder of sensores.
+3-bulid the device like the diagrams in folder of sensores --medical-care/sensores/.
 
 4-Connect the device with laptop.
 
@@ -21,7 +21,7 @@ Also make sure you have Arduino installed,to run Arduino code.
 5-Put the device's sensors in the correct place.
 
 
-6-Run Arduino code using Arduino program.
+6-Run Arduino code using Arduino program  --medical-care/sensores/.
 
 7-Link your mobile phone to the device via bluetooth.
 
