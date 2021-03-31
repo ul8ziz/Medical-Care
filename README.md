@@ -13,7 +13,19 @@ Also make sure you have Arduino installed,to run Arduino code.
 2-Open the project using Android Studio and run the application.
 
 
-3-Run Arduino code using Arduino program.
+3-bulid the device like the diagrams in folder of sensores.
+
+4-Connect the device with laptop.
+
+
+5-Put the device's sensors in the correct place.
+
+
+6-Run Arduino code using Arduino program.
+
+7-Link your mobile phone to the device via bluetooth.
+
+8-You can view the result  on your phone
 
 
 # What It Does:
