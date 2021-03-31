@@ -32,6 +32,7 @@ Also make sure you have Arduino installed,to run Arduino code.
 The device is to monitor heart rate pulse the percentage of oxygen in blood and body temperature 
 which are the all needed information to detect the  coronavirus in patients and other diseases.
 
+Android application to read the results coming from the sensors by bluetooth.
 
 # About the Project
 This project is for the 2021 Google Solution Challenge, by Team bite from the DSC at  Yemen ,Alrazi university.
