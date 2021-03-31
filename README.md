@@ -40,4 +40,6 @@ https://dsc.community.dev/al-razi-university/
 
 https://www.facebook.com/dscalrazi.ye
 
+Find a video summary here https://www.youtube.com/channel/UCaka1yWAWb8RD0xxvFc-W8Q
+
 
