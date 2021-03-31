@@ -5,6 +5,7 @@ The Project are A Android application and device.
 # How to Run
 
 Make sure you have Android Studio installed,to run the application.
+
 Also make sure you have Arduino installed,to run Arduino code.
 
 1-Clone this repository.
@@ -21,7 +22,8 @@ which are the all needed information to detect the  coronavirus in patients and 
 
 
 # About the Project
-This project is for the 2021 Google Solution Challenge, by Team bite from the DSC at  Yemen ,Alrazi university .
+This project is for the 2021 Google Solution Challenge, by Team bite from the DSC at  Yemen ,Alrazi university.
+
 https://dsc.community.dev/al-razi-university/
 
 https://www.facebook.com/dscalrazi.ye
