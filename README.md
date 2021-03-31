@@ -1,15 +1,17 @@
-This is the project for Google Developer Student Clubs Solution Challenge 2021. We are from Yemen.
+This is the project for Google Developer Student Clubs Solution Challenge 2021.
 # Medical Care-GDSC SolutionChallenge2021 Project.
-the Project are A Android application and device.
+The Project are A Android application and device.
 
 # How to Run
 
 Make sure you have Android Studio installed,to run the application.
 Also make sure you have Arduino installed,to run Arduino code.
 
-1-Clone this repository
-2-open the project using Android Studio and run the application.
-3-
+1-Clone this repository.
+
+2-Open the project using Android Studio and run the application.
+
+
 3-Run Arduino code using Arduino program.
 
 
@@ -19,5 +21,9 @@ which are the all needed information to detect the  coronavirus in patients and 
 
 
 # About the Project
+This project is for the 2021 Google Solution Challenge, by Team bite from the DSC at  Yemen ,Alrazi university .
+https://dsc.community.dev/al-razi-university/
+
+https://www.facebook.com/dscalrazi.ye
 
 
