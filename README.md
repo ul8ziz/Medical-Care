@@ -3,7 +3,8 @@ This is the project for Google Developer Student Clubs Solution Challenge 2021.
 The Project are A Android application and device.
 
 # How to Run
-
+# You can download the application from this link. https://drive.google.com/file/d/1wYuKXS7CRLJcXNdxrpqcot1WIPzQ3gnS/view?usp=sharing
+# We could not upload the application to github because a problem related to the Internet.
 Make sure you have Android Studio installed,to run the application.
 
 Also make sure you have Arduino installed,to run Arduino code.
@@ -35,8 +36,7 @@ which are the all needed information to detect the  coronavirus in patients and 
 Android application to read the results coming from the sensors by bluetooth.
 
 
-# You can download the application from this link.https://drive.google.com/drive/my-drive
-# We could not upload the application to github because a problem related to the Internet.
+
 
 
 # About the Project
