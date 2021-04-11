@@ -35,8 +35,8 @@ which are the all needed information to detect the  coronavirus in patients and 
 Android application to read the results coming from the sensors by bluetooth.
 
 
-#You can download the application from this link.https://drive.google.com/drive/my-drive
-#We could not upload the application to github because a problem related to the Internet.
+# You can download the application from this link.https://drive.google.com/drive/my-drive
+# We could not upload the application to github because a problem related to the Internet.
 
 
 # About the Project
