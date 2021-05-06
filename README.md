@@ -40,7 +40,7 @@ Android application to read the results coming from the sensors by bluetooth.
 
 
 # About the Project
-This project is for the 2021 Google Solution Challenge, by Team bite from the DSC at  Yemen ,Alrazi university.
+This project is for the 2021 Google Solution Challenge, by  GasorTeam from the DSC at  Yemen ,Alrazi university.
 
 https://dsc.community.dev/al-razi-university/
 
